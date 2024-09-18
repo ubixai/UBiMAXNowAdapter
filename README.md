@@ -1,0 +1,2 @@
+# UBiMAXNowAdapter
+UBiMAXNowAdapter
